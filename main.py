@@ -1,1 +1,4 @@
-print("Hello world")
+from controller import Controller
+
+controller = Controller()
+controller.start()
